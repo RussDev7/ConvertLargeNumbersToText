@@ -1,4 +1,4 @@
-# NumberToText
+# ConvertLargeNumbersToText
 Convert very very large numbers to their true names.
 
 This project was founded by Jonathan Wood, his original repo can be found here: [NumberToText](https://github.com/SoftCircuits/NumberToText) by @SoftCircuits.

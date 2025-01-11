@@ -52,6 +52,7 @@ namespace NumToText
 		{
             #region Lots of Numbers
             "",
+            "thousand",
             "million",
             "billion",
             "trillion",
